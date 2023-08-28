@@ -1,7 +1,7 @@
 from unified_planning.shortcuts import *
 from unified_planning.io.pddl_writer import SequentialPlan
 
-
+# comment from mac test
 def convert_state_string_to_dict(state_string):
     state_dict = {}
 
